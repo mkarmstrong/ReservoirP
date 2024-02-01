@@ -187,7 +187,7 @@ Tintersect <- function(wf, plot = FALSE) {
   
 }
 
-behnam_exp_style <- function(x) {
+rp_exp_style <- function(x) {
   
   # Set up varibles
   P <- low.pass(x, .1)
